@@ -1,7 +1,6 @@
 <h2 align="center">👋🏻 hello there, welcome to my hub 👋🏻</h2>
 
 <div align="center">
-  <a href="https://github.com/navarrovitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navarrovitor&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide=issues&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navarrovitor&layout=compact&langs_count=10&theme=outrun&hide_border=true"/>
 </div>
