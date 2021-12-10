@@ -1,7 +1,4 @@
-<h1 align="center">👋🏻 Hello there, I'm Vitor</h1>
-<h3 align="center">welcome to my hub</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navarrovitor&label=Profile%20views&color=ecde46&style=flat-square" alt="navarrovitor" /> </p>
+<h2 align="center">👋🏻 hello there, welcome to my hub 👋🏻</h2>
 
 <div align="center">
   <a href="https://github.com/navarrovitor">
@@ -40,8 +37,6 @@
   <img align="center" target="_blank" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 </p>
 
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
   <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -50,8 +45,10 @@
   <a href="https://twitter.com/devvitorr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </p>
 
-<br/>
+<h3 align="left">What I'm listening to:</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ![Snake animation](https://github.com/navarrovitor/navarrovitor/blob/output/github-contribution-grid-snake.svg)
-  
-  
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=navarrovitor&label=Profile%20views&color=ecde46&style=flat-square" alt="navarrovitor"/> </p>
