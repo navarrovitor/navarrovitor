@@ -46,7 +46,7 @@
 
 <h3 align="left">What I'm listening to:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&redirect=true)
 
 ![Snake animation](https://github.com/navarrovitor/navarrovitor/blob/output/github-contribution-grid-snake.svg)
 
