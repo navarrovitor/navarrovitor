@@ -1,4 +1,4 @@
-## 👋🏻 Hello there! Welcome to my hub 😎🤏
+<h1 align="center">👋🏻 Hello there! Welcome to my hub</h1>
 
 <div align="center">
   <a href="https://github.com/navarrovitor">
@@ -41,7 +41,12 @@
   <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/navarrovitor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/vitor.san.nav" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
- 
+
+  <div>  
+    <h4 align="center"> Visitors </h4>
+    <img align="center" src="https://profile-counter.glitch.me/navarrovitor/count.svg">
+  </div> 
+  
   ![Snake animation](https://github.com/navarrovitor/navarrovitor/blob/output/github-contribution-grid-snake.svg)
  
 </div>
