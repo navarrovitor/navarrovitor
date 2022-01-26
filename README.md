@@ -38,6 +38,8 @@
 
 <h3 align="left">my certification badges:</h3>
 <!--START_SECTION:badges-->
+
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/the resolution to the badges imagesxthe resolution to the badges images/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/a7b087b3-be23-4e02-a48f-a24526808fe2 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
 <h3 align="left">connect with me:</h3>
