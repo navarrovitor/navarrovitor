@@ -35,6 +35,11 @@
   <img align="center" target="_blank" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
+
+<h3 align="left">my certification badges:</h3>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3 align="left">connect with me:</h3>
 <p align="left">
   <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
