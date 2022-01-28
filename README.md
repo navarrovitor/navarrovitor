@@ -1,13 +1,12 @@
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> hello there, welcome to my hub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 
-<h3 align="left">my stats:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navarrovitor&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide=issues&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navarrovitor&layout=compact&langs_count=10&theme=outrun&hide_border=true"/>
 </div>
 
 <h3 align="left">languages and tools:</h3>
-<p align="left">
+<p align="center">
   <img align="center" target="_blank" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" target="_blank" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" target="_blank" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -36,19 +35,11 @@
 </p>
 
 
-<h3 align="left">my badges:</h3>
+<h3 align="left">certifications:</h3>
 <!--START_SECTION:badges-->
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/150x150/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/a7b087b3-be23-4e02-a48f-a24526808fe2 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
-
-<h3 align="left">connect with me:</h3>
-<p align="left">
-  <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/navarrovitor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/vitor.san.nav" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/devvitorr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</p>
 
 <h3 align="left">what I'm listening to:</h3>
 
@@ -56,4 +47,10 @@
 
 ![Snake animation](https://github.com/navarrovitor/navarrovitor/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/navarrovitor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/vitor.san.nav" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/devvitorr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=navarrovitor&label=Profile%20views&color=ecde46&style=flat-square" alt="navarrovitor"/> </p>
