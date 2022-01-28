@@ -37,6 +37,7 @@
 <h3 align="left">certifications:</h3>
 <!--START_SECTION:badges-->
 
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/90x90/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/1386b367-151e-493f-92ff-2c37fd4fb185 "Microsoft Certified: Azure AI Fundamentals")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/90x90/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/a7b087b3-be23-4e02-a48f-a24526808fe2 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
 
