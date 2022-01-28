@@ -34,7 +34,6 @@
   <img align="center" target="_blank" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
-
 <h3 align="left">certifications:</h3>
 <!--START_SECTION:badges-->
 
