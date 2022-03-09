@@ -46,6 +46,7 @@
 <h3 align="left">certifications:</h3>
 <!--START_SECTION:badges-->
 
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/90x90/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png)](http://www.credly.com/badges/f1e09d1f-0e76-44b0-ab56-0ce977fd264d "Microsoft 365 Certified: Fundamentals")
 [![MTA: Introduction to Programming Using JavaScript - Certified 2022](https://images.credly.com/size/90x90/images/33d7b442-98a6-42d6-883a-1c301c25d16c/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](http://www.credly.com/badges/5b07416a-c423-4447-bdd2-e797c974eb57 "MTA: Introduction to Programming Using JavaScript - Certified 2022")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/90x90/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/c79a130c-8c7c-4554-ba0c-51e6cbc1e21c "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/90x90/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/1386b367-151e-493f-92ff-2c37fd4fb185 "Microsoft Certified: Azure AI Fundamentals")
