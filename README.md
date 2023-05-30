@@ -1,10 +1,5 @@
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navarrovitor&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide=issues&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navarrovitor&layout=compact&langs_count=10&theme=outrun&hide_border=true"/>
-</div>
-
 <h3 align="left">languages, tools, and other stuff I have experience with:</h3>
 <p align="center">
   <img align="center" target="_blank" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
