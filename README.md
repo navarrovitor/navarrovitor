@@ -49,8 +49,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vitor.san.nav&redirect=true)
 
-![Snake animation](https://github.com/navarrovitor/navarrovitor/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <a href = "mailto:contatovitor.san.nav.nexus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/navarrovitor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
